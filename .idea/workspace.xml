@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ebc2977-ef57-43c6-bd00-f5784dd59fd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="drf_bzedu" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eO8tvSlueUb78bo20INjjIQxLy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drf_bzedu/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ccokt\new project\drf_bzedu\drf_bzedu\utils" />
+      <recent name="C:\Users\ccokt\new project\drf_bzedu\drf_bzedu\apps\payoff\keys" />
+      <recent name="C:\Users\ccokt\new project\drf_bzedu\drf_bzedu\apps\order" />
+      <recent name="C:\Users\ccokt\new project\drf_bzedu\drf_bzedu\apps\course" />
+      <recent name="C:\Users\ccokt\new project\drf_bzedu\drf_bzedu\media\course" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ccokt\new project\drf_bzedu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="SMS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="drf_bzedu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ccokt\ccokt_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/SMS.py" />
+      <option name="PARAMETERS" value="runserver 127.0.0.1:9001" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="drf_bzedu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ccokt\ccokt_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 127.0.0.1:9001" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="drf_bzedu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ccokt\ccokt_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 127.0.0.1:9001" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="drf_bzedu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ccokt\ccokt_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/random_name.py" />
+      <option name="PARAMETERS" value="runserver 127.0.0.1:9001" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drf_bzedu" type="Python.DjangoServer" factoryName="Django server">
+      <module name="drf_bzedu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ccokt\ccokt_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="9000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.drf_bzedu" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.SMS" />
+      <item itemvalue="Python.random_name" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.random_name" />
+        <item itemvalue="Python.SMS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ebc2977-ef57-43c6-bd00-f5784dd59fd2" name="Default Changelist" comment="" />
+      <created>1594181496329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594181496329</updated>
+      <workItem from="1594181499566" duration="4900000" />
+      <workItem from="1594203523099" duration="22453000" />
+      <workItem from="1594262819902" duration="25115000" />
+      <workItem from="1594354295669" duration="7124000" />
+      <workItem from="1594381839077" duration="9081000" />
+      <workItem from="1594550550585" duration="14182000" />
+      <workItem from="1594602029581" duration="7937000" />
+      <workItem from="1594635469088" duration="13556000" />
+      <workItem from="1594690859427" duration="29437000" />
+      <workItem from="1594773135566" duration="38690000" />
+      <workItem from="1594863070560" duration="637000" />
+      <workItem from="1594891821901" duration="24653000" />
+      <workItem from="1594982187458" duration="8833000" />
+      <workItem from="1595064133813" duration="22511000" />
+      <workItem from="1595158351296" duration="5653000" />
+      <workItem from="1595234090133" duration="25751000" />
+      <workItem from="1595334272654" duration="13907000" />
+      <workItem from="1595400790346" duration="5482000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594201005414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="265" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594201005414" />
+    <state x="523" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595235190496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1595235190496" />
+    <state x="670" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595241978943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="670" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595241978943" />
+    <state x="443" y="242" key="FileChooserDialogImpl" timestamp="1594267065125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="443" y="242" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594267065125" />
+    <state width="1185" height="312" key="GridCell.Tab.0.bottom" timestamp="1595410045650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1185" height="312" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595410045650" />
+    <state width="1185" height="312" key="GridCell.Tab.0.center" timestamp="1595410045650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1185" height="312" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595410045650" />
+    <state width="1185" height="312" key="GridCell.Tab.0.left" timestamp="1595410045650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1185" height="312" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595410045650" />
+    <state width="1185" height="312" key="GridCell.Tab.0.right" timestamp="1595410045650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1185" height="312" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595410045650" />
+    <state width="1493" height="211" key="GridCell.Tab.1.bottom" timestamp="1595263329166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595263329166" />
+    <state width="1493" height="211" key="GridCell.Tab.1.center" timestamp="1595263329166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595263329166" />
+    <state width="1493" height="211" key="GridCell.Tab.1.left" timestamp="1595263329166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595263329166" />
+    <state width="1493" height="211" key="GridCell.Tab.1.right" timestamp="1595263329166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595263329166" />
+    <state x="11" y="15" width="992" height="809" key="SettingsEditor" timestamp="1594215105591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="11" y="15" width="992" height="809" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594215105591" />
+    <state x="235" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1595234090106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="235" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595234090106" />
+    <state x="674" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1595237841254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="674" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595237841254" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/drf_bzedu$random_name.coverage" NAME="random_name Coverage Results" MODIFIED="1594558619553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/drf_bzedu$manage.coverage" NAME="manage Coverage Results" MODIFIED="1595400941728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/drf_bzedu$SMS.coverage" NAME="SMS Coverage Results" MODIFIED="1594394701384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
